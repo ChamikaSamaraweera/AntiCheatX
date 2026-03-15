@@ -17,7 +17,7 @@ We take the security of AntiCheatX seriously. If you believe you have found a se
 
 ### How to Report
 
-Please send an email to **contact@codenexa.online** with the following information:
+Please send an email to **chamika@teaminfinity.lk** with the following information:
 
 1.  **Description**: A detailed description of the vulnerability.
 2.  **Reproduction**: Steps to reproduce the issue (including any proof-of-concept code if available).
