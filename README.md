@@ -4,6 +4,7 @@
 ![Version](https://img.shields.io/badge/version-1.0.0-green.svg)
 ![Minecraft](https://img.shields.io/badge/minecraft-1.21.1-orange.svg)
 ![Platform](https://img.shields.io/badge/platform-Paper-red.svg)
+[![Java CI with Maven](https://github.com/ChamikaSamaraweera/AntiCheatX/actions/workflows/maven.yml/badge.svg)](https://github.com/ChamikaSamaraweera/AntiCheatX/actions/workflows/maven.yml)
 
 A powerful and configurable anti-cheat plugin for Paper Minecraft servers, designed to detect and prevent various forms of cheating while maintaining excellent server performance.
 
