@@ -1,4 +1,6 @@
-<center> ![AntiCheatX Banner](https://raw.githubusercontent.com/ChamikaSamaraweera/AntiCheatX/stable/anticheatx_banner.svg) </center>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ChamikaSamaraweera/AntiCheatX/stable/anticheatx_banner.svg" alt="AntiCheatX Banner" width="100%"/>
+</p>
 # AntiCheatX
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
