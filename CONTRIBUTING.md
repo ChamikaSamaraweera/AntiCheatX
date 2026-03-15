@@ -455,7 +455,7 @@ Contributors will be recognized in:
 - **GitHub Issues**: Technical problems and bugs
 - **GitHub Discussions**: General questions and community
 - **Pull Requests**: Code contributions
-- **Email**: [contact info] for security issues
+- **Security**: Please refer to our [Security Policy](SECURITY.md) for reporting vulnerabilities.
 
 ---
 
