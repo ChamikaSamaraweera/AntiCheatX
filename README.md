@@ -180,7 +180,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Issues**: Report bugs on our [Issue Tracker](../../issues)
 - **Discussions**: Join our [Discussions](../../discussions)
 - **Wiki**: Check our [comprehensive wiki](../../wiki) for detailed documentation
-- **Website**: Visit [codenexa.online](https://codenexa.online) for more information
+- **Website**: Visit [teaminfinity.lk](https://teaminfinity.lk) for more information
 
 ## 🔄 Changelog
 
@@ -199,4 +199,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Made with ❤️ by [Chamika Samaraweera](https://codenexa.online)**
+**Made with ❤️ by [Chamika Samaraweera](https://teaminfinity.lk)**
