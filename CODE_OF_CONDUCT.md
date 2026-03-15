@@ -56,7 +56,7 @@ Community leaders will follow these Community Impact Guidelines in determining t
 
 **Consequence**: A warning with consequences for continued behavior. No interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, for a specified period of time. This includes avoiding interactions in community spaces as well as external channels like social media. Violating these terms may lead to a permanent ban.
 
-### 3. Takeover
+### 3. Temporary Ban
 
 **Community Impact**: A serious violation of community standards, including sustained harassing behavior.
 
