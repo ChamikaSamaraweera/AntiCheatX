@@ -25,13 +25,7 @@ Thank you for your interest in contributing to AntiCheatX! We welcome contributi
 
 ## 📜 Code of Conduct
 
-This project adheres to a code of conduct. By participating, you are expected to uphold this code:
-
-- **Be respectful** and inclusive
-- **Be constructive** in discussions and feedback
-- **Focus on the issue**, not the person
-- **Help others learn** and grow
-- **Respect different viewpoints** and experiences
+This project adheres to the [Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to contact@codenexa.online.
 
 ## 🤝 How Can I Contribute?
 
